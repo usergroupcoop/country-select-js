@@ -586,6 +586,10 @@
 	// n = name
 	// i = iso2 (2-char country code)
 	var allCountries = $.each([ {
+		n: "none",
+		i: "xx"
+	},
+	{
 		n: "Afghanistan (‫افغانستان‬‎)",
 		i: "af"
 	}, {

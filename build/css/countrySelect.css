@@ -9,7 +9,7 @@
 .country-select .flag{
 	width:16px;
 	height:11px;
-	background:url("../../build/img/flags.png")
+	background:url("/resources/images/flags.png")
 }
 .country-select .hide{
 	display:none
